@@ -1,0 +1,73 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to learn git for android course . i want to learn how to manage projects.
+    it will help me getting a job.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+  
+  What do you think are the pros and cons of manually choosing when to create a commit , like you 
+  do in Git , vs having verisons automatically saved ,like Google Docs does?
+
+  pros :
+   when you manually commit , you specify what change you have made.
+   it will help other programmer .
+   every commit explain something what is being changed.
+  cons:
+ Why do you think some version control systems, like Git , allow saving multiple files in one commit , 
+ while others , like Google Docs ,treat each file separately ?
+    I think its good idea to save multiple file in one commit , because when files are interrelated
+    ,changes have been made to one file also affect the dependent files , so its good idea to save 
+     multiple files.
+
+git log - 
+    this command display all commit ids .
+    ids are sha code.
+     each commit has commit id.
+git diff id1 id2
+     it shows difference between two ids.
+     which line deleted and which is added.
+ How might using version control make you more confident to make changes that could
+ break something ?
+
+     there is a command git checkout by which you can go backward version of file
+     , or you can revert changes that are causing problem. you can check which 
+     commit causes problem. 
+     git checkout  commit_id
+     this command would get you defined commit .
+     you can also go to recent commit .
+     
+
+Now that you have your workspace set up, what do you want to try using Git for  ? 
+     I am going to learn android development , so to manage project i'm gonna need 
+      git . 
