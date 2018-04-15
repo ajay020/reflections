@@ -1,4 +1,4 @@
 What happens when you initialize a repository ? why do you need to do it ?
-    git init turns a folder into a git repository which means that you can start
-     tracking files and changes to those files.
+    git init turns a folder into a git repository which means that you can 
+    start tracking files and changes to those files.
 
